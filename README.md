@@ -1,10 +1,10 @@
 # projeto_mascote_android_html_css
-Olá! Este é o repositório do projeto "Mascote Android". Este projeto foi realizado no curso de HTML5 e CSS3 ministrado pelo professor Guanabara na plataforma "Curso em Vídeo".
+Olá! Este é o repositório do projeto "Mascote Android", realizado no curso de HTML5 e CSS3 ministrado pelo professor Guanabara na plataforma "Curso em Vídeo".
 
 
 
 
-Este projeto consiste em um site blog que aborda a história e evolução da mascote do sistema operacional Android, bem como sua importância e presença na cultura tecnológica. Uma das seções deste site fala sobre Irina Block, responsável por criar a logo da marca Android.
+Este site blog que aborda a história e evolução da mascote do sistema operacional Android, bem como sua importância e presença na cultura tecnológica. Uma das seções deste site fala sobre Irina Block, responsável por criar a logo da marca Android.
 
 
 
