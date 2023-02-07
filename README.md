@@ -13,29 +13,13 @@ Aqui você encontrará todos os arquivos e códigos utilizados na criação, inc
 
 
 
-Site em large:
+
+Site:
+
 
 
 
 ![](https://github.com/alberyReis/projeto_mascote_android_html_css/blob/main/img_site/androidlarge.png)
-
-
-
-
-Site em media:
-
-
-
-![](https://github.com/alberyReis/projeto_mascote_android_html_css/blob/main/img_site/androidmedia.png)
-
-
-
-
-Site em small:
-
-
-
-![](https://github.com/alberyReis/projeto_mascote_android_html_css/blob/main/img_site/androidsmall.png)
 
 
 
